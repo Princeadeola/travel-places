@@ -21,14 +21,13 @@ header{
 	text-shadow: 1px 1px 2px black;
 }
 
-header ul{
+header nav{
 	display: flex;
 }
 
-header li{
+header ul li{
 	margin-left: 20px;
 }
-
 
 ul{ 
 	list-style: none;
