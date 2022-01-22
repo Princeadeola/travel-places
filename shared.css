@@ -9,6 +9,11 @@ header{
 	text-align: center;
 	justify-content: space-between;
 }
+nav{
+	display: flex;
+	text-align: center;
+	justify-content: space-between;
+}
  
 #page-logo a{
 	padding: 10px;
