@@ -92,3 +92,7 @@
 .destination strong{
 	color: rgb(0, 160, 117);
 }
+
+footer{
+	background: linear-gradient(70deg, rgb(24, 24, 24), rgb(25, 29, 29));
+}
