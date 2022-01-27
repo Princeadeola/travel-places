@@ -41,7 +41,7 @@ header ul li a{
 	border-radius: 6px;
 }
 
-header ul li a:hover{
+header ul li a:hover{ 
 	color: rgb(77, 77, 77);
 	background-color: rgb(255, 251, 0);
 }
