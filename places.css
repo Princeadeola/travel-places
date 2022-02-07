@@ -28,21 +28,6 @@ main li img{
 
 .item-content{
 	padding: 24px;
-}
-
-.item-content p{
-	font-size: 13px;
-}
-.actions{
 	display: flex;
-	align-items: right;
-	justify-content: flex-end;
-}
-.actions a{
-	padding: 7px;
-
-}
-.actions a:hover{
-	background: lightblue;
-	border-radius: 5px;
+	flex-direction: column;
 }
