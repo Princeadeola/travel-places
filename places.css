@@ -17,6 +17,7 @@ main li{
 	box-shadow: 1px 1px 4px rgba(0, 0, 0, .2);
 	border-radius: 6px;
 	overflow: hidden;
+	width: 90%;
 }
 
 main li img{
@@ -27,4 +28,21 @@ main li img{
 
 .item-content{
 	padding: 24px;
+}
+
+.item-content p{
+	font-size: 13px;
+}
+.actions{
+	display: flex;
+	align-items: right;
+	justify-content: flex-end;
+}
+.actions a{
+	padding: 7px;
+
+}
+.actions a:hover{
+	background: lightblue;
+	border-radius: 5px;
 }
